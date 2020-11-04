@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Alejandro Cabrera (aka YandrakFire)</h1>
-<h3 align="center">El mejor experto también fue un día aprendiz.</h3>
+<h3 align="center">"El mejor experto también fue un día aprendiz."</h3>
 
 Soy un novato en continuo aprendizaje, estudie Derecho pero me estoy reinventando, empecé con un curso de Desarrollador Azure y ahora a por el CFGS de Desarrollo de Aplicaciones Multiplataforma. Ahora disfrutando de lo que era mi hobby, queriendo aprender cada día más de ello y buscando un futuro profesional tambien.
 
