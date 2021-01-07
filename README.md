@@ -1,16 +1,19 @@
 <h1 align="center">Hola 👋, Soy Alejandro Cabrera (aka YandrakFire)</h1>
 <h3 align="center">"El mejor experto también fue un día aprendiz."</h3>
 
-Soy un novato en continuo aprendizaje, estudie Derecho pero me estoy reinventando, empecé con un curso de Desarrollador Azure y ahora a por el CFGS de Desarrollo de Aplicaciones Multiplataforma. Ahora disfrutando de lo que era mi hobby, queriendo aprender cada día más de ello y buscando un futuro profesional tambien.
+Soy un novato en continuo aprendizaje, estudie Derecho pero me estoy reinventando, empecé con un curso de Desarrollador Azure y ahora a por el CFGS de Desarrollo de Aplicaciones Multiplataforma. Ahora disfrutando de lo que era mi hobby, queriendo aprender cada día más de ello y avanzar profesional y personalmente!
 
-Mis certificaciones oficiales:
+Mis certificaciones oficiales 🏅:
 
-- [Microsoft Certified Trainer](https://www.youracclaim.com/badges/20f68e58-cbda-4110-b140-2d17625f2e5e?source=linked_in_profile).
+- [Microsoft Certified Trainer 2020-2021](https://www.youracclaim.com/badges/20f68e58-cbda-4110-b140-2d17625f2e5e?source=linked_in_profile).
 - [Microsoft Certified: Power Platform Fundamentals (PL-900).](https://www.youracclaim.com/badges/794f4ec5-4b7d-4e90-8e9b-045d1d909f98/linked_in_profile)
 - [Microsoft Certified: Azure Developer Associate (AZ-203)](https://www.youracclaim.com/badges/38c97a52-7f9d-4f01-8cdd-fea544fe7b92/linked_in_profile).
 - Cloud Computing - Google Activate.
 - Diploma Gestión de proyectos con metodologías Ágiles y enfoques Lean (9.ª edición) - Miríadax
 
+Colaboro como [Microsoft Learn Student Ambassador 2021](https://studentambassadors.microsoft.com/certificate/956e07fe-7a5f-45c2-a7ef-1f2dddc56897)
+
+Estoy abierto a nuevos proyectos, colaboraciones, oportunidades laborales y expandir mi circulo profesional en el ámbito del desarrollo web y de aplicaciones así como en el ecosistema Microsoft. Puedes contactarme en:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yandrakfire&label=Profile%20views&color=0e75b6&style=flat" alt="yandrakfire" /> </p>
 
