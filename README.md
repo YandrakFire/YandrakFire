@@ -3,6 +3,8 @@
 
 Soy un novato en continuo aprendizaje, estudie Derecho pero me estoy reinventando, empecé con un curso de Desarrollador Azure y ahora a por el CFGS de Desarrollo de Aplicaciones Multiplataforma. Ahora disfrutando de lo que era mi hobby, queriendo aprender cada día más de ello y avanzar profesional y personalmente!
 
+💼 Actualmente trabajo como Software Engineer en Sogeti.
+
 Mis certificaciones oficiales 🏅:
 
 - [Microsoft Certified Trainer 2020-2021](https://www.youracclaim.com/badges/20f68e58-cbda-4110-b140-2d17625f2e5e?source=linked_in_profile).
