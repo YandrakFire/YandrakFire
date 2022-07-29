@@ -8,13 +8,16 @@ Soy un novato en continuo aprendizaje, estudie Derecho pero me estoy reinventand
 Mis certificaciones oficiales 🏅:
 
 - [Microsoft Certified Trainer 2020-2022](https://www.credly.com/badges/619d08fe-f43f-4658-9218-3b9e60254c1f/public_url).
+- [Microsoft Certified: Power Automate RPA Developer (PL-500)](https://www.credly.com/badges/7a3bc1b2-01c6-4706-b121-752162899a74?source=linked_in_profile).
+- [Microsoft Certified: Azure Developer Associate (AZ-204)](https://www.youracclaim.com/badges/38c97a52-7f9d-4f01-8cdd-fea544fe7b92/linked_in_profile).
 - [Microsoft Certified: Power Platform Fundamentals (PL-900).](https://www.youracclaim.com/badges/794f4ec5-4b7d-4e90-8e9b-045d1d909f98/linked_in_profile)
-- [Microsoft Certified: Azure Developer Associate (AZ-203)](https://www.youracclaim.com/badges/38c97a52-7f9d-4f01-8cdd-fea544fe7b92/linked_in_profile).
+- [Microsoft Certified: Scurity, Compliance and Identity Fundamentals (SC-900)](https://www.credly.com/badges/a6d1fcf4-bda1-46f7-94ea-0d8413097aa2?source=linked_in_profile).
+- [Microsoft 365 Certified: Fundamentals (MS-900)](https://www.credly.com/badges/0106b689-0ccc-4431-8ac0-65c1b6a7a497?source=linked_in_profile).
 - [Professional Scrum Master I (Scrum.org)](https://www.credly.com/badges/a1e3370d-78e9-423a-a9f6-fab2acae18bb/public_url).
 - Cloud Computing - Google Activate.
 - Diploma Gestión de proyectos con metodologías Ágiles y enfoques Lean (9.ª edición) - Miríadax
 
-Colaboro como [Microsoft Learn Student Ambassador 2021](https://studentambassadors.microsoft.com/certificate/956e07fe-7a5f-45c2-a7ef-1f2dddc56897)
+Colaboro como [Microsoft Learn Student Ambassador 2021-2022](https://studentambassadors.microsoft.com/certificate/956e07fe-7a5f-45c2-a7ef-1f2dddc56897)
 
 Estoy abierto a nuevos proyectos, colaboraciones y expandir mi circulo profesional en el ámbito del desarrollo web y de aplicaciones así como en el ecosistema Microsoft. Puedes contactarme en:
 
